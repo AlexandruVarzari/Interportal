@@ -2,12 +2,11 @@ package Lesson13Tests;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertTrue;
-
+ 
 public class MainTest {
     @Test
     public void equality(){
